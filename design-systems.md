@@ -5,7 +5,7 @@
 - Baiano
 - Software Developer @ Creditas
 
-## Design System != Styleguide
+## Design System !== Styleguide
 > O que é o Design System?
 - Design Principles
 - Marca
